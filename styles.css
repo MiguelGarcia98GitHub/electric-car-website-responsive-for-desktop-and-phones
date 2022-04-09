@@ -416,7 +416,7 @@ background-color:#1d7762;
 
 @media (max-height: 901px) {
   .page2 {
-    height: 1250px;
+    height: 1350px;
   }
 
   .page2-boxes-container {
@@ -428,7 +428,7 @@ background-color:#1d7762;
   }
 
   .all-carousels-container {
-    height: 800px;
+    height: 750px;
   }
 
   .gallery-car-image-container {
